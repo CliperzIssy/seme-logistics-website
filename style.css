@@ -60,6 +60,10 @@ html {
     letter-spacing: 1px;
 }
 
+.logo-m {
+    color: #0056b3;
+}
+
 .nav-links {
     list-style: none;
     display: flex;
